@@ -73,7 +73,7 @@ The website is fully responsive with breakpoints:
 
 ## 📄 License
 
-This project is licensed under the MIT License(licence.md)
+This project is licensed under the MIT License(license.md)
 
 ## 👥 Author
 
